@@ -7,3 +7,5 @@ Api- Lottery Retailers is a Restful API provides list of licensed retailers data
 * Retailers data obtained from states lotteries commissions through a public data requests, currently list of license retailers provided
    for following states FL, NY, NJ and NH. list will grow as it goes.
 * Accessible via RapidApi platform.
+
+* Visit LR_API https://rapidapi.com/yballaj/api/lottery-retailers/ profile in RapidAPI platform
